@@ -3,6 +3,5 @@ require './user-input.rb'
 
 menu = Menu.new
 loop do
-menu.print_menu
-menu.process_selection(UserInput.menu_selection)
+menu.process_selection(menu.print_menu)
 end
