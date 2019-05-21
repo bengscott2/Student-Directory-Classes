@@ -48,8 +48,9 @@ class StudentList
   end
 
   def print_header
+    puts '++++++++++++++++++++++++++++++++'
     puts 'The students of Villains Academy'
-    puts '-------------'
+    puts '++++++++++++++++++++++++++++++++'
   end
 
   def print_footer
