@@ -6,6 +6,13 @@ This is a remake of my original Student Directory project. This version is reorg
 
 ## How to use ##
 
+Install required Gems with
+
+```shell
+bundle install
+```
+Then to run the program use
+
 ```shell
 ruby main.rb
 ```
